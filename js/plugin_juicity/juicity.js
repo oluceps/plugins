@@ -82,29 +82,29 @@ class juicityClass {
                     //
                     {
                         "type": "EditTextPreference",
-                        "key": "uuid",
+                        "key": "UUID",
                         "icon": "ic_baseline_person_24",
                     },
                     {
                         "type": "EditTextPreference",
-                        "key": "password",
+                        "key": "Password",
                         "icon": "ic_settings_password",
                         "summaryProvider": "PasswordSummaryProvider",
                     },
                     //
                     {
                         "type": "EditTextPreference",
-                        "key": "sni",
+                        "key": "Server Name Indication",
                         "icon": "ic_action_copyright"
                     },
                     {
                         "type": "SwitchPreference",
-                        "key": "allowInsecure",
+                        "key": "Allow Insecure",
                         "icon": "ic_notification_enhanced_encryption",
                     },
                     {
                         "type": "EditTextPreference",
-                        "key": "congestionControl",
+                        "key": "Congestion Control",
                         "icon": "ic_baseline_stream_24",
                     },
                 ],
